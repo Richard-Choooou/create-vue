@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 /*! create-vue v3.3.1 | MIT */
+console.log("create-vue")
 var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
